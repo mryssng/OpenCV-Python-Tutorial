@@ -17,9 +17,9 @@ image = cv2.imread('images/duck.jpg')
 
 # Write file as JPEG
 result = cv2.imwrite('images/duck_out.jpg', image)
+
+# Write file with Japanese file name
 result = cv2.imwrite('画像フォルダ/あひる出力.jpg', image)
-
-
 
 # Write file as PNG
 result = cv2.imwrite('images/duck_out.png', image)
