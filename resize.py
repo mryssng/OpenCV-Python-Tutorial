@@ -7,9 +7,6 @@
   * resize
     https://docs.opencv.org/4.5.2/da/d54/group__imgproc__transform.html#ga47a974309e9102f5f08231edc7e7529d
 
-  * Image data : https://unsplash.com/photos/VTvnoNBowZs
-                 https://www.pexels.com/ja-jp/photo/439391/
-                 https://www.pexels.com/ja-jp/photo/7794425/
 '''
 
 import cv2
